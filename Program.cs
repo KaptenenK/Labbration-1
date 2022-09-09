@@ -9,8 +9,15 @@ int sum = a + b + c;
 
 //lägger till nya strins
 string s = "Detta är för Github";
-
 string s1 = "C# är kul";
 
+//lägger till ytterligare ändring på developer (nyligen skapad branch) branch
+
+double aD = 2.5;
+double bD = 2.65;
+double sumDouble = aD + bD;
+
+
+Console.WriteLine(sumDouble);
 Console.WriteLine(sum);
-global::System.Console.WriteLine(s + " " + s1 "ibland");
+Console.WriteLine(s + " " + s1 "ibland");
